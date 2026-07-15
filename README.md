@@ -1,0 +1,2 @@
+This repository contains the datasets and source code providing analytical solutions to the coding assignment and an interactive dashboard customized for users to understand and interact with world bank data on life expectancy and it's subsidiary datasets.
+The libraries and other essential dependencies can be installed on the go while running the scripts. Have a good time running and reviewing the codes, Thanks for your time!
